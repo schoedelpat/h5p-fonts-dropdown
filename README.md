@@ -1,2 +1,2 @@
-# h5p-fonts-dropdown
-H5P - Google Fonts dropdown in TinyMCE
+# h5p-unofficial-fonts-dropdown
+H5P (Unoffical) - Google Fonts dropdown in TinyMCE
